@@ -5,8 +5,7 @@
 **AI Model:** Google Gemini (via PaLM API)
 **LinkedIn API:** n8n LinkedIn OAuth2 node
 **Version:** 1.0
-**Author:** Monesh D
-**Developer Portfolio:** [m]()
+**Author:** Prasanth D
 
 ---
 
