@@ -6,7 +6,7 @@
 **LinkedIn API:** n8n LinkedIn OAuth2 node
 **Version:** 1.0
 **Author:** Monesh D
-**Developer Portfolio:** [moneshgomon8n.netlify.app](https://moneshgomon8n.netlify.app)
+**Developer Portfolio:** [m]()
 
 ---
 
@@ -554,4 +554,4 @@ Receive Post Title (Webhook)
 ---
 
 *Documentation generated for LinkedIn Image Posting v1.0 — n8n Self-Hosted Workflow*
-*Documented by Monesh D | [moneshgomo.netlify.app](https://moneshgomo.netlify.app)*
+
