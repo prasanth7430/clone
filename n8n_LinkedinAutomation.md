@@ -6,6 +6,7 @@
 **LinkedIn API:** n8n LinkedIn OAuth2 node
 **Version:** 1.0
 **Author:** Prasanth D
+**PPT:**https://gamma.app/docs/id18r7r81ksil85
 
 ---
 
