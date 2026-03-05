@@ -553,4 +553,4 @@ Receive Post Title (Webhook)
 ---
 
 *Documentation generated for LinkedIn Image Posting v1.0 — n8n Self-Hosted Workflow*
-
+*Documented by Prasanth D*
